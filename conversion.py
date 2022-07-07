@@ -1,7 +1,6 @@
 from pdf2image import convert_from_path
 import glob
 import os
-import os
 import subprocess
 from datetime import datetime
 import argparse
